@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "うんち",
+      "name": "test",
+      "uuid":"2497f352-5788-4627-92ba-86a215ec1dd7",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "description": "うんち",
+            "type": "data",
+            "uuid": "d2a1f3e9-6ab4-4070-95e9-ceefd787c88d",
+            "version": [1, 0, 0]
+        }
+      ],
+    "dependencies": [
+      {
+       "uuid":"c396952b-0511-4068-b1f3-41ca638adbff",
+        "version":[1,0,0]
+      }
+   ]
+  }
